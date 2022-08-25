@@ -5,6 +5,6 @@ precondition
 steps
 ER
 AR
-attachment
+attachments
 severity
 priority
